@@ -1,0 +1,9 @@
+Main features - Pure Rust
+
+Due Date 13/01/24
+
+1) Gather 2 polynomials - DONE
+2) Multiply the coeffecients and variables - DONE
+3) Print out the result - DONE
+
+Use array for representing the polynomials
